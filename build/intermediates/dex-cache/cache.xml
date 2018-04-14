@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.10.0_378041975af7593be02453be425345620c1bc14c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/2a76a8700fc28a6f3105d14a703c49d98cd868a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f92064303720c1f5c7787386ba578147d5b0e534/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/e68b4e46104a7319449d15d26f5372f1ab1385e5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_241a3b855b0017067e6918aa6e5b306b0a47335a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.0/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-27.1.0_23fa196de0790e2ca8c9b5e975a26d1cf82f2c22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/52f5cde3bbe57af01c89b15699e527c59a3ebf15/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_39d86104ccbb3ca8cbd5e6353e12164a56af1fb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/20dcf0450a4301e3b6b8341d8a9a992c36c6c189/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5710f9f97c553a6112d95f0503f5a459f562b7bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/05baed794e01cec1d9e627ff0e6797a43694e372/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e72c498ef3e345135b6bfdf7fc83c6b905228ade">
+        <dex dex="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_76387dd0668a7c1984e671b47509152d48de75d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_e318c25c89e4efb38b25b20d7d71d43e5ba34206/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/33bd75808517df8c99781b2a71fd60ce1e5bedfd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d410043f93e71bb0179ba86b85726dd080f14b79">
+        <dex dex="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e633db6695d3360c855bc89de130699a5226695/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a4e5278b1f260c4991e6e46644259b7fec608104">
+        <dex dex="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_11bc234c0d4b60343b97f96f2402e257d8331e35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/02cfe47b1f87c58e394d47561aa26a50f2615604/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_51c8fc05a29dcd614a9446ebb2860763c6ff1c39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_20093c6a7ec3b7ad5e10f7bec3156addea584eee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_20093c6a7ec3b7ad5e10f7bec3156addea584eee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/37d6706054cd727d82362cd1ea70eb4108b68de9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cf75e4c442cd2837ab179a4a48b393937e28a9ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/e775e575c3bf4ed1ff00e4095c0dfbe4e99de5a5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_600553f3602126bdd07843057759bb9062ee2439/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/WAPP/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e3f448c0ef628793af365bf147b04885c049afbb">
+        <dex dex="/Users/apple/Documents/WAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cf1d573c7c3ae304498264cf058a6db7232eba3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/b3ac47b87746b402d32885e8c41e3b44fe8cc9a6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a77dd97f559e5fdc641380539d31a71f2b0470c">
+        <dex dex="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a68e602b29ae5b908b1e9cfa74adadb3f64f079/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/06773f22fd350dfc7589276f694508ef597817e9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0d6df4057d1620a785f5bd2e69dd0d7866f3613c">
+        <dex dex="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e56084dc047a32931f47cb8f2cf9498a39eef7dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/97aed213d7b24e70f61cf50b6c1e36ef33fc6c60/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d68bbf92de9721b02a31a3833abfdc90144c7e39">
+        <dex dex="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cdf32d458752a66b834dc5e4bedeaf34b2c4fa31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_4a9ab15c92577da9a73fa10142117b795593146b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/bad5fa0262bfb11f1cc4774dd07c13ad811e50d3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5f43d6c042ee8eb48fa7606da4d1034d472a43cd">
+        <dex dex="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb15cff653f7cc7b8784dd830fe221c83e90113b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/bbc97dd6b1d1ae49b981f94215c5ccc5cb1bc50b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5513bb13ce8eb37e575846b636b248ddff0eb537/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1430bd6680c6d47a7a69d2f16d87cceaa1a5df39">
+        <dex dex="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_11bc234c0d4b60343b97f96f2402e257d8331e35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/c77b22439d7e4441bb1a48c415b3ea6173261087/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2bb7c43f3ff5ca04644710a817a0770a821466d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.14.0_a6035e857116d3703ccc8c87374870438119455c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.3.0_0c33f426c42024a344b9701527fb849066e470be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.3.0_801bc00e233f6724f62369f94038a9dc8556675f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/c22ed31acb35e08258f7c40e4f88af433f20ed10/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a6c0f3548eca9dc5bcf456d42f57d1f39ab69aef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/56e252a0dc43ad357739f2fa21ac2a16519e5610/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3caa91ee8a08ffd3517cdf86cf6a2d129aa7cf87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Documents/WAPP/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/apple/Documents/WAPP/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6b3cbfc6c3129873952bf2cbf7f2f183b022b562/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/020c0ccb5be19044bd529c799f032d014703ac67/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_729a9e05318a602185770730b006fff01e59c7f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/cb7156697140419bb4fc378cf329ede9eefc9b93/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/apple/MyWeatherApp/MyWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b7696d23fee505eabc346daf1fe9660478be07ca/classes.dex" />
+    </item>
+
+</items>

@@ -1,3 +1,25 @@
 <resources>
-    <string name="app_name">MyWeatherApp</string>
+    <string name="app_name">Weather Application</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="please_enter_city_name">Please enter city name</string>
+
+    <string name="latitude_label">Latitude is %1$s</string>
+    <string name="longitude_label">Longitude is %1$s</string>
+    <string name="mAddres_label">Address: </string>
+
+
+    <string name="no_location_detected">
+        No location detected. Make sure location or Internet is enabled on the device.
+    </string>
+
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core
+        functionality.</string>
+    <string name="settings">Settings</string>
+    <string name="latitude_null">Latitude is null</string>
+    <string name="longitude_null">Longitude is null</string>
+    <string name="location_information">Your location - %1$s, %2$s</string>
+    <string name="location_error">Sorry app could not get your last location.</string>
+    <string name="please_enter_the_city">Please enter the City</string>
+
 </resources>
